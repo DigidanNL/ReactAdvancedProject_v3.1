@@ -1,0 +1,59 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "createdBy": 1,
+      "title": "Italiaanse Avond: Bruschetta workshop",
+      "description": "Leer de kunst van het maken van authentieke Italiaanse bruschetta met verse tomaten, basilicum en knoflook.",
+      "image": "/images/italiaanse_Avond_bruschetta_workshop.jpg",
+      "location": "Gusto's Italian Kitchen",
+      "startTime": "2023-12-01T18:00:00.000Z",
+      "endTime": "2023-12-01T21:00:00.000Z",
+      "categories": [1]
+    },
+    {
+      "id": 2,
+      "createdBy": 2,
+      "title": "Mexicaanse Taco Fiesta",
+      "description": "Maak je eigen taco's met een verscheidenheid aan ingrediënten en sauzen. Perfect voor liefhebbers van de Mexicaanse keuken!",
+      "image": "/images/Mexicaanse_taco_fiesta.jpg",
+      "location": "El Taco Loco",
+      "startTime": "2023-12-05T18:00:00.000Z",
+      "endTime": "2023-12-05T21:00:00.000Z",
+      "categories": [2]
+    },
+    {
+      "id": 3,
+      "createdBy": 3,
+      "title": "Franse Patisserie Workshop",
+      "description": "Ontdek de geheimen van Franse gebakjes maken, inclusief éclairs, macarons en tartelettes.",
+      "image": "/images/Franse_Patesseri.jpg",
+      "location": "The Petit Chef",
+      "startTime": "2023-12-10T14:00:00.000Z",
+      "endTime": "2023-12-10T17:00:00.000Z",
+      "categories": [3]
+    },
+    {
+      "id": 4,
+      "createdBy": 4,
+      "title": "Japans Sushi Rols Avond",
+      "description": "Probeer de traditionele kunst van sushi rollen onder begeleiding van een Japanse chef.",
+      "image": "/images/Japanse_Sushi_avond.jpg",
+      "location": "Tokyo Delight",
+      "startTime": "2023-12-12T19:00:00.000Z",
+      "endTime": "2023-12-12T21:30:00.000Z",
+      "categories": [4]
+    },
+    {
+      "id": 5,
+      "createdBy": 5,
+      "title": "Griekse Meze Proeverij",
+      "description": "Geniet van een avond met verschillende meze-gerechten zoals tzatziki, dolmades en spanakopita.",
+      "image": "/images/Griekse_mezes.jpg",
+      "location": "Athenian Nights",
+      "startTime": "2023-12-15T17:30:00.000Z",
+      "endTime": "2023-12-15T20:30:00.000Z",
+      "categories": [5]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "categories": [
+    { "id": 1, "name": "Italiaanse keuken" },
+    { "id": 2, "name": "Mexicaanse keuken" },
+    { "id": 3, "name": "Franse keuken" },
+    { "id": 4, "name": "Japanse keuken" },
+    { "id": 5, "name": "Griekse keuken" }
+  ]
+}
